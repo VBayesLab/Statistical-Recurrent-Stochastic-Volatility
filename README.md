@@ -7,5 +7,8 @@ SR-SV is a flexible model that uses Statistical Recurrent Unit, which is a varia
 For more information about SR-SV, please read the paper: [A Statistical Recurrent Stochastic Volatility Model for Stock Markets](https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2028631)
 
 ## Authors
-Nghia Nguyen (nghia.nguyen@sydney.edu.au) <br/>
-Minh-Ngoc Tran (minh-ngoc.tran@sydney.edu.au)
+Trong-Nghia Nguyen - University of Sydney Business School (nghia.nguyen@sydney.edu.au) <br/>
+Minh-Ngoc Tran - University of Sydney Business School (minh-ngoc.tran@sydney.edu.au) <br/>
+David Gunawan - University of Wollongong, School of Mathematics and Applied Stats (dgunawan@uow.edu.au) <br/>
+Robert Kohn - University of New South Wales, School of Economic (r.kohn@unsw.edu.a)
+
